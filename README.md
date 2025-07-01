@@ -4,12 +4,12 @@ BlobShare is a retro-themed social platform for sharing pixel art and memories w
 
 ## Features
 
-- 🎨 Create and customize blob cards with your pixel art
-- 👥 Connect with friends and share your creations
-- 💬 Real-time chat with blob sharing
-- 📱 Status/Story feature for temporary shares
-- 🌙 Dark mode support
-- 🤖 Chat with Walrus, the friendly AI assistant
+-  Create and customize blob cards with your pixel art
+-  Connect with friends and share your creations
+-  Real-time chat with blob sharing
+-  Status/Story feature for temporary shares
+-  Dark mode support
+-  Chat with Walrus, the friendly AI assistant
 
 ## Getting Started
 
